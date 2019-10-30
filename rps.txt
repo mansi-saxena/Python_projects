@@ -1,0 +1,1 @@
+RPS is actually rock paper and scissor game fully coded in Python. The program is relatively simple and doesn't really challenge any python script. The credit for the program is entirely mine.
